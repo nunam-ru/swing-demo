@@ -24,5 +24,4 @@ repositories {
 dependencies {
     compile 'org.slf4j:slf4j-api:1.7.7'
     testCompile 'junit:junit:4.11'
-	classpath 'edu.sc.seis.launch4j:launch4j:2.5.1'
 }
