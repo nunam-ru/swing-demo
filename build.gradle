@@ -14,7 +14,6 @@ plugins {
 
 launch4j {
   mainClassName = 'SwingDemo'
-  icon = "${projectDir}/android.png"
 }
 
 repositories {
